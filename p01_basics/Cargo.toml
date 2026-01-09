@@ -1,0 +1,7 @@
+[package]
+name = "p01_basics"
+version = "0.1.0"
+edition = "2021"
+
+# 这个文件夹是独立的，这里的依赖只属于这一章
+[dependencies]

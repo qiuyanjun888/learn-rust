@@ -1,0 +1,9 @@
+[workspace]
+
+members = [
+    "p01_basics",
+    "p02_ownership", # 核心所有权系统
+    "p03_structs_enums", # 类型系统与高级枚举
+]
+
+resolver = "2"
